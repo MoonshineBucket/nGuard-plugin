@@ -1,0 +1,11 @@
+name: nGuard
+main: ru.beshelmek.nguard.Main
+description: nGuard
+version: 1.0.0
+commands:
+   mscreen:
+      description: Получить скриншот
+      permission: nGuard.screen
+   shistory:
+      description: Получить историю скриншотов
+      permission: nGuard.history
